@@ -1,58 +1,54 @@
-﻿namespace _01.ReverseStrings
+﻿namespace _01.ReverseStrings;
+class Program
 {
-    internal class Program
+//    static void Main(string[] args)
+//    {
+//        string currentInputString = Console.ReadLine() ?? "abc";
+
+//        while (currentInputString != "end")
+//        {
+//            string currentInputStringReversed = Reverse(currentInputString);
+//            Console.WriteLine($"{currentInputString} = {currentInputStringReversed}");
+//            currentInputString = Console.ReadLine() ?? "abc";
+//        }
+//    }
+
+//    public static string Reverse(string s)
+//    {
+//        char[] charArray = s.ToCharArray();
+//        Array.Reverse(charArray);
+//        return new string(charArray);
+//    }
+//}
+
+    static void Main()
     {
-        //static void Main(string[] args)
-    //{
-            //    static void Main(string[] args)
-            //    {
-            //        string currentInputString = Console.ReadLine() ?? "abc";
+        List<string> reversedWords = new List<string>();
 
-            //        while (currentInputString != "end")
-            //        {
-            //            string currentInputStringReversed = Reverse(currentInputString);
-            //            Console.WriteLine($"{currentInputString} = {currentInputStringReversed}");
-            //            currentInputString = Console.ReadLine() ?? "abc";
-            //        }
-            //    }
-
-            //    public static string Reverse(string s)
-            //    {
-            //        char[] charArray = s.ToCharArray();
-            //        Array.Reverse(charArray);
-            //        return new string(charArray);
-            //    }
-            //}
-
-        static void Main()
+        while (true)
         {
-            List<string> reversedWords = new List<string>();
+            string input = Console.ReadLine();
 
-            while (true)
-            {
-                string input = Console.ReadLine();
+            if (input == "end")
+                break;
 
-                if (input == "end")
-                    break;
-
-                string reversedWord = ReverseString(input);
-                reversedWords.Add($"{input} = {reversedWord}");
-            }
-
-            foreach (string pair in reversedWords)
-            {
-                Console.WriteLine(pair);
-            }
+            string reversedWord = ReverseString(input);
+            reversedWords.Add($"{input} = {reversedWord}");
         }
 
-        static string ReverseString(string input)
+        foreach (string pair in reversedWords)
         {
-            string reversedWord = "";
-            for (int i = input.Length - 1; i >= 0; i--)
-            {
-                reversedWord += input[i];
-            }
-            return reversedWord;
+            Console.WriteLine(pair);
         }
+    }
+
+    static string ReverseString(string input)
+    {
+        string reversedWord = "";
+        for (int i = input.Length - 1; i >= 0; i--)
+        {
+            reversedWord += input[i];
+        }
+        return reversedWord;
     }
 }

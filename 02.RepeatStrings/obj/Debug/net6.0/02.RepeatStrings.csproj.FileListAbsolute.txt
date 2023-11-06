@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\refint\02.RepeatStrings.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\02.RepeatStrings\obj\Debug\net6.0\ref\02.RepeatStrings.dll

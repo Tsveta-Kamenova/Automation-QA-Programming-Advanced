@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\bin\Debug\net6.0\04.TextFilter.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\bin\Debug\net6.0\04.TextFilter.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\bin\Debug\net6.0\04.TextFilter.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\bin\Debug\net6.0\04.TextFilter.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\bin\Debug\net6.0\04.TextFilter.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\04.TextFilter.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\04.TextFilter.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\04.TextFilter.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\04.TextFilter.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\refint\04.TextFilter.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\04.TextFilter.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\04.TextFilter.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\04.TextFilter\obj\Debug\net6.0\ref\04.TextFilter.dll

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\bin\Debug\net6.0\11.MatchFullName.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\bin\Debug\net6.0\11.MatchFullName.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\bin\Debug\net6.0\11.MatchFullName.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\bin\Debug\net6.0\11.MatchFullName.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\bin\Debug\net6.0\11.MatchFullName.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\11.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\11.MatchFullName.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\11.MatchFullName.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\11.MatchFullName.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\11.MatchFullName.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\refint\11.MatchFullName.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\11.MatchFullName.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\11.MatchFullName.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\11.MatchFullName\obj\Debug\net6.0\ref\11.MatchFullName.dll

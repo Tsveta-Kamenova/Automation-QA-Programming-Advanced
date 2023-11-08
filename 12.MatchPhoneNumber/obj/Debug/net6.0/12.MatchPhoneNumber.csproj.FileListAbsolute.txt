@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\bin\Debug\net6.0\12.MatchPhoneNumber.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\bin\Debug\net6.0\12.MatchPhoneNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\bin\Debug\net6.0\12.MatchPhoneNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\bin\Debug\net6.0\12.MatchPhoneNumber.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\bin\Debug\net6.0\12.MatchPhoneNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\12.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\12.MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\12.MatchPhoneNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\12.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\12.MatchPhoneNumber.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\refint\12.MatchPhoneNumber.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\12.MatchPhoneNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\12.MatchPhoneNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\12.MatchPhoneNumber\obj\Debug\net6.0\ref\12.MatchPhoneNumber.dll

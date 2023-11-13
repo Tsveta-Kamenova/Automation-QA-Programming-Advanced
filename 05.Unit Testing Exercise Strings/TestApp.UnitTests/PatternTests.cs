@@ -4,10 +4,9 @@ namespace TestApp.UnitTests;
 
 public class PatternTests
 {
-    // TODO: finish the test cases
-    //[TestCase()]
-    //[TestCase()]
-    //[TestCase()]
+    [TestCase("cat", 2, "cAtcAt")]
+    [TestCase("qwerty", 3, "qWeRtYqWeRtYqWeRtY")]
+    [TestCase("t", 5, "ttttt")]
     public void Test_GeneratePatternedString_ValidInput_ReturnsExpectedResult(string input, 
         int repetitionFactor, string expected)
     {

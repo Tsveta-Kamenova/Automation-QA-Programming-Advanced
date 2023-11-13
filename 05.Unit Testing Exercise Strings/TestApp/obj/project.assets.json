@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp\\TestApp.csproj",
+      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp\\obj\\",
+      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sjc5FU0NwXyV9cVrT5bwSi7QpIURGvuiP6qrGZTbWvzuBfO9rZnpxOvrbeDJkm0J+CmeQpN1QjNR5NhbHWoJcQ==",
+  "dgSpecHash": "ll+OQu2bh2KLun8OxhT8YI59Jt2WIGnpRDrB0GN6zgnNN03LJngLuT/4+9R8HzrGtC9f1AOI5AlhCByFrCSySg==",
   "success": true,
-  "projectFilePath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+  "projectFilePath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tsveta\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Tsveta\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

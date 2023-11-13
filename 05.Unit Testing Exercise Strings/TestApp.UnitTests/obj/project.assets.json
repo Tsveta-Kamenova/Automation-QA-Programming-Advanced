@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
       "projectName": "TestApp.UnitTests",
-      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp.UnitTests\\obj\\",
+      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1029,8 +1029,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp\\TestApp.csproj": {
-              "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings and Regular Expressions\\TestApp\\TestApp.csproj"
+            "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp\\TestApp.csproj": {
+              "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\05.Unit Testing Exercise Strings\\TestApp\\TestApp.csproj"
             }
           }
         }

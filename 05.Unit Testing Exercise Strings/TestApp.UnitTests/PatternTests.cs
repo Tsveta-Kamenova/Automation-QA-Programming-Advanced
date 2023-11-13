@@ -22,18 +22,35 @@ public class PatternTests
     [Test]
     public void Test_GeneratePatternedString_EmptyInput_ThrowsArgumentException()
     {
-        // TODO: finish the test
+        // Arrange
+        string input = "";
+        int repetitionFactor = 10;
+
+        // Act & Assert
+        Assert.That(() => Pattern.GeneratePatternedString(input, repetitionFactor), Throws.ArgumentException);
+
+
     }
 
     [Test]
     public void Test_GeneratePatternedString_NegativeRepetitionFactor_ThrowsArgumentException()
     {
-        // TODO: finish the test
+        // Arrange
+        string input = "asd";
+        int repetitionFactor = -10;
+
+        // Act & Assert
+        Assert.That(() => Pattern.GeneratePatternedString(input, repetitionFactor), Throws.ArgumentException);
     }
 
     [Test]
     public void Test_GeneratePatternedString_ZeroRepetitionFactor_ThrowsArgumentException()
     {
-        // TODO: finish the test
+        // Arrange
+        string input = "qwe";
+        int repetitionFactor = 0;
+
+        // Act & Assert
+        Assert.That(() => Pattern.GeneratePatternedString(input, repetitionFactor), Throws.ArgumentException);
     }
 }

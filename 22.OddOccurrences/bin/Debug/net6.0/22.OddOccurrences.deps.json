@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "22.OddOccurrences/1.0.0": {
+        "runtime": {
+          "22.OddOccurrences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22.OddOccurrences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

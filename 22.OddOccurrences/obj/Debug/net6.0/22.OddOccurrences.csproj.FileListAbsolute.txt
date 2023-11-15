@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\bin\Debug\net6.0\22.OddOccurrences.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\bin\Debug\net6.0\22.OddOccurrences.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\bin\Debug\net6.0\22.OddOccurrences.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\bin\Debug\net6.0\22.OddOccurrences.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\bin\Debug\net6.0\22.OddOccurrences.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\22.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\22.OddOccurrences.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\22.OddOccurrences.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\22.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\22.OddOccurrences.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\refint\22.OddOccurrences.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\22.OddOccurrences.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\22.OddOccurrences.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\22.OddOccurrences\obj\Debug\net6.0\ref\22.OddOccurrences.dll

@@ -14,6 +14,7 @@
                 else
                 {
                     numbersFrequency[number] = 1;
+                    //numbersFrequency.Add(number, 1);
                 }
             }
             foreach (KeyValuePair<int, int> pair in numbersFrequency)

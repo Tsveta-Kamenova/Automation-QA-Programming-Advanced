@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\bin\Debug\net6.0\21.CountRealNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\bin\Debug\net6.0\21.CountRealNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\bin\Debug\net6.0\21.CountRealNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\bin\Debug\net6.0\21.CountRealNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\bin\Debug\net6.0\21.CountRealNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\21.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\21.CountRealNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\21.CountRealNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\21.CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\21.CountRealNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\refint\21.CountRealNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\21.CountRealNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\21.CountRealNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\21.CountRealNumbers\obj\Debug\net6.0\ref\21.CountRealNumbers.dll

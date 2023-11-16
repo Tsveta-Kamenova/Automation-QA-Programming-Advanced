@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\32.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\32.AMinerTask.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\32.AMinerTask.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\32.AMinerTask.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\bin\Debug\net6.0\32.AMinerTask.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\bin\Debug\net6.0\32.AMinerTask.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\bin\Debug\net6.0\32.AMinerTask.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\bin\Debug\net6.0\32.AMinerTask.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\bin\Debug\net6.0\32.AMinerTask.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\32.AMinerTask.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\refint\32.AMinerTask.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\32.AMinerTask.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\32.AMinerTask.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\32.AMinerTask\obj\Debug\net6.0\ref\32.AMinerTask.dll

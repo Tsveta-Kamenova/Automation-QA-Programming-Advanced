@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\31.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\31.CountCharsInAString.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\31.CountCharsInAString.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\31.CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\bin\Debug\net6.0\31.CountCharsInAString.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\bin\Debug\net6.0\31.CountCharsInAString.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\bin\Debug\net6.0\31.CountCharsInAString.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\bin\Debug\net6.0\31.CountCharsInAString.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\bin\Debug\net6.0\31.CountCharsInAString.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\31.CountCharsInAString.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\refint\31.CountCharsInAString.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\31.CountCharsInAString.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\31.CountCharsInAString.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\31.CountCharsInAString\obj\Debug\net6.0\ref\31.CountCharsInAString.dll

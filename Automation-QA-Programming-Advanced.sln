@@ -19,13 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.MatchPhoneNumber", "12.M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.MatchDates", "13.MatchDates\13.MatchDates.csproj", "{31B5FED8-8D34-4610-8C6B-43B4CEA4C06F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.CountRealNumbers", "21.CountRealNumbers\21.CountRealNumbers.csproj", "{D16234BB-A571-4DB9-94B8-07CC36A0FBD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.CountRealNumbers", "21.CountRealNumbers\21.CountRealNumbers.csproj", "{D16234BB-A571-4DB9-94B8-07CC36A0FBD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.OddOccurrences", "22.OddOccurrences\22.OddOccurrences.csproj", "{1BD63905-0807-44B7-B83F-43B5D421F315}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.OddOccurrences", "22.OddOccurrences\22.OddOccurrences.csproj", "{1BD63905-0807-44B7-B83F-43B5D421F315}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.WordSynonyms", "23.WordSynonyms\23.WordSynonyms.csproj", "{66383EA7-620B-4193-A8F2-85AD622DD633}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.WordSynonyms", "23.WordSynonyms\23.WordSynonyms.csproj", "{66383EA7-620B-4193-A8F2-85AD622DD633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.WordFilter", "24.WordFilter\24.WordFilter.csproj", "{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.WordFilter", "24.WordFilter\24.WordFilter.csproj", "{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31.CountCharsInAString", "31.CountCharsInAString\31.CountCharsInAString.csproj", "{D7D7BD2A-376E-4B3F-992C-9928E914AF7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.AMinerTask", "32.AMinerTask\32.AMinerTask.csproj", "{B183A829-719C-4EEA-94CD-47E8496AD56B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D7BD2A-376E-4B3F-992C-9928E914AF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D7BD2A-376E-4B3F-992C-9928E914AF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D7BD2A-376E-4B3F-992C-9928E914AF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D7BD2A-376E-4B3F-992C-9928E914AF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B183A829-719C-4EEA-94CD-47E8496AD56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B183A829-719C-4EEA-94CD-47E8496AD56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B183A829-719C-4EEA-94CD-47E8496AD56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B183A829-719C-4EEA-94CD-47E8496AD56B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

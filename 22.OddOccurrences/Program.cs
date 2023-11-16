@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
 
-            string[] words = Console.ReadLine().Split(" ").Select(s => s.ToLower()).ToArray();
+            string[] words = Console.ReadLine()
+                            .Split(" ")
+                            .Select(s => s.ToLower())
+                            .ToArray();
 
             Dictionary<string, int> OddOccurancesOfAWord = new();
 

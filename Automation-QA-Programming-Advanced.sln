@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.CountRealNumbers", "21.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.OddOccurrences", "22.OddOccurrences\22.OddOccurrences.csproj", "{1BD63905-0807-44B7-B83F-43B5D421F315}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.WordSynonyms", "23.WordSynonyms\23.WordSynonyms.csproj", "{66383EA7-620B-4193-A8F2-85AD622DD633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.WordFilter", "24.WordFilter\24.WordFilter.csproj", "{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{1BD63905-0807-44B7-B83F-43B5D421F315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD63905-0807-44B7-B83F-43B5D421F315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD63905-0807-44B7-B83F-43B5D421F315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66383EA7-620B-4193-A8F2-85AD622DD633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66383EA7-620B-4193-A8F2-85AD622DD633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66383EA7-620B-4193-A8F2-85AD622DD633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66383EA7-620B-4193-A8F2-85AD622DD633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBC1AAC-7214-452D-A3EB-ACBA35A1BF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

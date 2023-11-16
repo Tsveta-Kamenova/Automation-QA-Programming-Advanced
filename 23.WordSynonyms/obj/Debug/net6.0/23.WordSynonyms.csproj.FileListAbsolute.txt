@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\bin\Debug\net6.0\23.WordSynonyms.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\bin\Debug\net6.0\23.WordSynonyms.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\bin\Debug\net6.0\23.WordSynonyms.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\bin\Debug\net6.0\23.WordSynonyms.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\bin\Debug\net6.0\23.WordSynonyms.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\23.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\23.WordSynonyms.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\23.WordSynonyms.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\23.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\23.WordSynonyms.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\refint\23.WordSynonyms.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\23.WordSynonyms.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\23.WordSynonyms.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\23.WordSynonyms\obj\Debug\net6.0\ref\23.WordSynonyms.dll

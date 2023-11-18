@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\bin\Debug\net6.0\36.CompanyUsers.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\bin\Debug\net6.0\36.CompanyUsers.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\bin\Debug\net6.0\36.CompanyUsers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\bin\Debug\net6.0\36.CompanyUsers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\bin\Debug\net6.0\36.CompanyUsers.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\36.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\36.CompanyUsers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\36.CompanyUsers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\36.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\36.CompanyUsers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\refint\36.CompanyUsers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\36.CompanyUsers.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\36.CompanyUsers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\36.CompanyUsers\obj\Debug\net6.0\ref\36.CompanyUsers.dll

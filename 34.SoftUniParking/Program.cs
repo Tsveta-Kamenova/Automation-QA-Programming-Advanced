@@ -34,6 +34,7 @@
                 {
                     if (employeePlateNumber.ContainsKey(employeeName))
                     {
+                        employeePlateNumber.Remove(employeeName);
                         Console.WriteLine($"{employeeName} unregistered successfully");
                     }
                     else 

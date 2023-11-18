@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\bin\Debug\net6.0\34.SoftUniParking.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\bin\Debug\net6.0\34.SoftUniParking.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\bin\Debug\net6.0\34.SoftUniParking.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\bin\Debug\net6.0\34.SoftUniParking.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\bin\Debug\net6.0\34.SoftUniParking.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\34.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\34.SoftUniParking.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\34.SoftUniParking.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\34.SoftUniParking.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\34.SoftUniParking.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\refint\34.SoftUniParking.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\34.SoftUniParking.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\34.SoftUniParking.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\34.SoftUniParking\obj\Debug\net6.0\ref\34.SoftUniParking.dll

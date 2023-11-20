@@ -13,8 +13,8 @@ public class CountRealNumbersTests
     {
         // Arrange
         //int[] input = new int[0];
-        //int[] input = Array.Empty<int>();
-        int[] input = { };
+        int[] input = Array.Empty<int>();
+        //int[] input = { };
 
         // Act
         string result = CountRealNumbers.Count(input);
@@ -119,6 +119,25 @@ public class CountRealNumbersTests
 
 
         string expectedResult = sb.ToString().Trim();
+        // Act
+        string result = CountRealNumbers.Count(input);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expectedResult));
+    }
+
+    [Test]
+    public void Test_Count_WithSingleBigNumber_ShouldReturnCountString()
+    {
+        // Arrange
+        int[] input = { 509843532 };
+
+        StringBuilder sb = new();
+        sb.AppendLine("509843532 -> 1");
+
+
+        string expectedResult = sb.ToString().Trim();
+
         // Act
         string result = CountRealNumbers.Count(input);
 

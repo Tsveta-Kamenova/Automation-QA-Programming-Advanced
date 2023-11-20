@@ -12,16 +12,18 @@ public class PlantsTests
         // TODO: finish test
     }
 
-    // TODO: finish test
     [Test]
     public void Test_GetFastestGrowing_WithSinglePlant_ShouldReturnPlant()
     {
         // Arrange
+        string[] plants = { "flower" };
 
         // Act
-        //string result = Plants.GetFastestGrowing(plants);
+        string result = Plants.GetFastestGrowing(plants);
 
         // Assert
+        Assert.That(result, Is.EqualTo("Plants with 6 letters:\r\nflower"));
+
     }
 
     [Test]

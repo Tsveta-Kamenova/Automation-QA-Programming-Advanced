@@ -66,15 +66,15 @@ public class CountRealNumbersTests
     public void Test_Count_WithNegativeNumbers_ShouldReturnCountString()
     {
         // Arrange
-        int[] input = { 3, 2, 1, -2, 1, -4, -4, -4 };
+        int[] input = { -3, -2, -1, -2, -1, -4, -4, -4 };
 
 
         StringBuilder sb = new();
         sb.AppendLine("-4 -> 3");
-        sb.AppendLine("-2 -> 1");
-        sb.AppendLine("1 -> 2");
-        sb.AppendLine("2 -> 1");
-        sb.AppendLine("3 -> 1");
+        sb.AppendLine("-3 -> 1");
+        sb.AppendLine("-2 -> 2");
+        sb.AppendLine("-1 -> 2");
+
 
 
         string expectedResult = sb.ToString().Trim();

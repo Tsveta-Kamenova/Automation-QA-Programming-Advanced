@@ -22,7 +22,7 @@ public class OrdersTests
     public void Test_Order_WithMultipleOrders_ShouldReturnTotalPrice()
     {
         // Arrange
-        string[] input = { "apple 1 5.97", "banana 1 3.75", "orange 1 1.98"};
+        string[] input = new string[] { "apple 1 5.97", "banana 1 3.75", "orange 1 1.98"};
 
         // Act
         string result = Orders.Order(input);
@@ -35,7 +35,7 @@ public class OrdersTests
     public void Test_Order_WithRoundedPrices_ShouldReturnTotalPrice()
     {
         // Arrange
-        string[] input = { "apple 2 3", "banana 1 31", "orange 2 2" };
+        string[] input = new string[] { "apple 2 3", "banana 1 31", "orange 2 2" };
 
         // Act
         string result = Orders.Order(input);
@@ -48,12 +48,22 @@ public class OrdersTests
     public void Test_Order_WithDecimalQuantities_ShouldReturnTotalPrice()
     {
         // Arrange
-        string[] input = { "apple 2.01 3", "banana 0.1 31", "orange 200.5 2" };
+        string[] input = new string[] { "apple 2.01 3", "banana 0.1 31", "orange 200.5 2" };
 
         // Act
         string result = Orders.Order(input);
 
         // Assert
         Assert.That(result, Is.EqualTo($"apple -> 6.03{Environment.NewLine}banana -> 3.10{Environment.NewLine}orange -> 401.00"));
+    }
+
+    [Test]
+    public void Test_Order_WithWrongArrangement_ShouldThrowException()
+    {
+        // Arrange
+        string[] input = new string[] { "2.01 apple 3", "banana 0.1 31", "orange 200.5 2" };
+
+        // Act & Assert
+        Assert.That(() => Orders.Order(input), Throws.Exception);
     }
 }

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\bin\Debug\net6.0\43.StoreBoxes.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\bin\Debug\net6.0\43.StoreBoxes.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\bin\Debug\net6.0\43.StoreBoxes.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\bin\Debug\net6.0\43.StoreBoxes.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\bin\Debug\net6.0\43.StoreBoxes.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\43.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\43.StoreBoxes.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\43.StoreBoxes.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\43.StoreBoxes.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\43.StoreBoxes.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\refint\43.StoreBoxes.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\43.StoreBoxes.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\43.StoreBoxes.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\43.StoreBoxes\obj\Debug\net6.0\ref\43.StoreBoxes.dll

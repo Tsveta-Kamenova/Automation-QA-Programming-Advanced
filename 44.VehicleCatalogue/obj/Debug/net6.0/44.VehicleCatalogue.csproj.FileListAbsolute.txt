@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\bin\Debug\net6.0\44.VehicleCatalogue.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\bin\Debug\net6.0\44.VehicleCatalogue.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\bin\Debug\net6.0\44.VehicleCatalogue.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\bin\Debug\net6.0\44.VehicleCatalogue.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\bin\Debug\net6.0\44.VehicleCatalogue.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\44.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\44.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\44.VehicleCatalogue.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\44.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\44.VehicleCatalogue.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\refint\44.VehicleCatalogue.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\44.VehicleCatalogue.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\44.VehicleCatalogue.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\44.VehicleCatalogue\obj\Debug\net6.0\ref\44.VehicleCatalogue.dll

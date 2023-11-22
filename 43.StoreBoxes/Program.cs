@@ -67,8 +67,8 @@
             foreach (var box in boxes)
             {
                 Console.WriteLine($"{box.SerialNumber}");
-                Console.WriteLine($"-- {box.Item.Name} – ${box.Item.Price:f2}: {box.ItemQuantity}");
-                Console.WriteLine($"-- ${box.PriceForABox}");
+                Console.WriteLine($"-- {box.Item.Name} - ${box.Item.Price:f2}: {box.ItemQuantity}");
+                Console.WriteLine($"-- ${box.PriceForABox:f2}");
 
             }
         }

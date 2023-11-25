@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\bin\Debug\net6.0\52.Articles.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\bin\Debug\net6.0\52.Articles.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\bin\Debug\net6.0\52.Articles.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\bin\Debug\net6.0\52.Articles.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\bin\Debug\net6.0\52.Articles.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\52.Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\52.Articles.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\52.Articles.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\52.Articles.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\52.Articles.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\refint\52.Articles.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\52.Articles.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\52.Articles.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\52.Articles\obj\Debug\net6.0\ref\52.Articles.dll

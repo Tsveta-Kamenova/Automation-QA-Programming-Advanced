@@ -29,9 +29,9 @@
                         continue;
                     }
 
-                    Team currentTeam = new Team(firstUserName, firstTeamName);
+                    team.CreateTeam(firstUserName, firstTeamName);
 
-                    teams.Add(currentTeam);
+                    teams.Add(team);
                 }
             }
 
@@ -54,9 +54,9 @@
 
                     if (team.TeamName == joinTeam && team.UserCreator != memberWannaBe)
                     {
-                        Team currentTeam = new Team(memberWannaBe, joinTeam);
+                        team.JoinTeam(memberWannaBe, joinTeam);
 
-                        teams.Add(currentTeam);
+                        teams.Add(team);
                     }
                 }
 

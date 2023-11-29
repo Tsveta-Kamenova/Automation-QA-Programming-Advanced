@@ -38,6 +38,11 @@
             {
                 Console.WriteLine($"{title} - {content}: {author}");
             }
+
+            public override string ToString()
+            {
+                return $"{Title} - {Content}: {Author}";
+            }
         }
 
 
@@ -60,18 +65,32 @@
                 string command = secondInput[0];
                 string fieldToChange = secondInput[1];
 
-                if (command == "Edit")
+
+                switch (command)
                 {
-                    article.Edit(fieldToChange);
+                    case "Edit":
+                        article.Edit(fieldToChange);
+                        break;
+                    case "ChangeAuthor":
+                        article.ChangeAuthor(fieldToChange);
+                        break;
+                    case "Rename":
+                        article.Rename(fieldToChange);
+                        break;
                 }
-                if (command == "ChangeAuthor")
-                {
-                    article.ChangeAuthor(fieldToChange);
-                }
-                if(command == "Rename")
-                {
-                    article.Rename(fieldToChange);
-                }
+
+                //if (command == "Edit")
+                //{
+                //    article.Edit(fieldToChange);
+                //}
+                //if (command == "ChangeAuthor")
+                //{
+                //    article.ChangeAuthor(fieldToChange);
+                //}
+                //if(command == "Rename")
+                //{
+                //    article.Rename(fieldToChange);
+                //}
             }
 
             article.ToString(article.Title, article.Content, article.Author);

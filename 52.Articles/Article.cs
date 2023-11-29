@@ -42,5 +42,10 @@ namespace _52.Articles
         {
             Console.WriteLine($"{title} - {content}: {author}");
         }
+
+        public override string ToString()
+        {
+            return $"{Title} - {Content}: {Author}";
+        }
     }
 }

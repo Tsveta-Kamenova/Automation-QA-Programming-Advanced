@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\bin\Debug\net6.0\54.PokemonTrainer.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\bin\Debug\net6.0\54.PokemonTrainer.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\bin\Debug\net6.0\54.PokemonTrainer.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\bin\Debug\net6.0\54.PokemonTrainer.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\bin\Debug\net6.0\54.PokemonTrainer.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\54.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\54.PokemonTrainer.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\54.PokemonTrainer.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\54.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\54.PokemonTrainer.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\refint\54.PokemonTrainer.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\54.PokemonTrainer.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\54.PokemonTrainer.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\54.PokemonTrainer\obj\Debug\net6.0\ref\54.PokemonTrainer.dll

@@ -52,10 +52,25 @@ public class PersonTests
     }
 
     [Test]
+    public void Test_AddPeople_ReturnsEmptyList_WhenNoDataIsGiven()
+    {
+        // Arrange
+        string[] peopleData = {  };
+
+        // Act
+        List<Person> resultPeopleList = this._person.AddPeople(peopleData);
+
+        // Assert
+        Assert.That(resultPeopleList, Has.Count.EqualTo(0));
+    }
+
+
+
+    [Test]
     public void Test_GetByAgeAscending_SortsPeopleByAge()
     {
         // Arrange
-        string expectedString = $"Bob with ID: B002 is 30 years old.{Environment.NewLine}Alice with ID: A001 is 35 years old.";
+        string expectedString = $"Bob with ID: B002 is 30 years old.{Environment.NewLine}Alice with ID: A001 is 35 years old.{Environment.NewLine}Ivan with ID: B2 is 50 years old.";
         List<Person> inputListPeople = new()
         {
             new Person
@@ -69,6 +84,12 @@ public class PersonTests
                 Name = "Bob",
                 Id = "B002",
                 Age = 30,
+            },
+            new Person
+            {
+                Name = "Ivan",
+                Id = "B2",
+                Age = 50,
             }
 
         };
@@ -78,6 +99,20 @@ public class PersonTests
 
         // Assert
         Assert.That(resultPeopleList, Is.EqualTo(expectedString));
+
+    }
+
+    [Test]
+    public void Test_GetByAgeAscending_ReturnsEmptyString_WhenGivenNoData()
+    {
+        // Arrange
+        List<Person> inputListPeople = new List<Person>();
+
+        // Act
+        string actual = this._person.GetByAgeAscending(inputListPeople);
+
+        // Assert
+        Assert.That(actual, Is.Empty);
 
     }
 }

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\61.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\61.SquareRoot.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\61.SquareRoot.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\61.SquareRoot.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\bin\Debug\net6.0\61.SquareRoot.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\bin\Debug\net6.0\61.SquareRoot.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\bin\Debug\net6.0\61.SquareRoot.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\bin\Debug\net6.0\61.SquareRoot.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\bin\Debug\net6.0\61.SquareRoot.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\61.SquareRoot.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\refint\61.SquareRoot.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\61.SquareRoot.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\61.SquareRoot.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\61.SquareRoot\obj\Debug\net6.0\ref\61.SquareRoot.dll

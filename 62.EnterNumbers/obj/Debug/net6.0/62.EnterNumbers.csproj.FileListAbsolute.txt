@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\bin\Debug\net6.0\62.EnterNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\bin\Debug\net6.0\62.EnterNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\bin\Debug\net6.0\62.EnterNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\bin\Debug\net6.0\62.EnterNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\bin\Debug\net6.0\62.EnterNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\62.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\62.EnterNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\62.EnterNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\62.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\62.EnterNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\refint\62.EnterNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\62.EnterNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\62.EnterNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\62.EnterNumbers\obj\Debug\net6.0\ref\62.EnterNumbers.dll

@@ -20,12 +20,24 @@
 
             while (numbers.Count < 10)
             {
-                int number = ReadNumbers(prevNum, 100);
-                numbers.Add(number);
-                prevNum = number;
+                try
+                {
+                    int number = ReadNumbers(prevNum, 100);
+
+                    numbers.Add(number);
+                    prevNum = number;
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine($"Your number is not in range {prevNum} - 100!");
+                }
+                catch  (FormatException)
+                {
+                    Console.WriteLine("Invalid Number!");
+                }
             }
 
-            Console.WriteLine(string.Join(",", numbers));
+            Console.WriteLine(string.Join(", ", numbers));
         }
     }
 }

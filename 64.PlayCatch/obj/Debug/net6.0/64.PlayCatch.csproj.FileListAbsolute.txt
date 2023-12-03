@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\bin\Debug\net6.0\64.PlayCatch.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\bin\Debug\net6.0\64.PlayCatch.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\bin\Debug\net6.0\64.PlayCatch.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\bin\Debug\net6.0\64.PlayCatch.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\bin\Debug\net6.0\64.PlayCatch.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\64.PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\64.PlayCatch.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\64.PlayCatch.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\64.PlayCatch.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\64.PlayCatch.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\refint\64.PlayCatch.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\64.PlayCatch.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\64.PlayCatch.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\64.PlayCatch\obj\Debug\net6.0\ref\64.PlayCatch.dll

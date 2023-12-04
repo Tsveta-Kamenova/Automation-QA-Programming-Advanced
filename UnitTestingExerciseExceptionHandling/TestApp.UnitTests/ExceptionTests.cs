@@ -204,12 +204,27 @@ public class ExceptionTests
     }
 
     [Test]
-    public void Test_AddNumbers_NoOverflow_ReturnsSum()
+    public void Test_AddNumbers_NoOverflow_PositiveNumbers_ReturnsSum()
     {
         // Arrange 
         int a = 5;
-        int b = 5;
-        int expected = 10;
+        int b = 200;
+        int expected = 205;
+
+        // Act 
+        int result = this._exceptions.OverflowAddNumbers(a, b);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
+    }
+
+    [Test]
+    public void Test_AddNumbers_NoOverflow_MixedSignNumbers_ReturnsSum()
+    {
+        // Arrange 
+        int a = -5;
+        int b = 200;
+        int expected = 195;
 
         // Act 
         int result = this._exceptions.OverflowAddNumbers(a, b);
@@ -222,7 +237,7 @@ public class ExceptionTests
     public void Test_AddNumbers_PositiveOverflow_ThrowsOverflowException()
     {
         // Arrange 
-        int a = 5;
+        int a = int.MaxValue;
         int b = int.MaxValue;
 
         // Act & Assert
@@ -233,7 +248,7 @@ public class ExceptionTests
     public void Test_AddNumbers_NegativeOverflow_ThrowsOverflowException()
     {
         // Arrange 
-        int a = -5;
+        int a = int.MinValue;
         int b = int.MinValue;
 
         // Act & Assert
@@ -258,42 +273,115 @@ public class ExceptionTests
     [Test]
     public void Test_DivideNumbers_DivideByZero_ThrowsDivideByZeroException()
     {
-        // TODO: finish test
+        // Arrange
+        int dividend = 100;
+        int divisor = 0;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.DivideByZeroDivideNumbers(dividend, divisor), Throws.InstanceOf<DivideByZeroException>());
     }
 
     [Test]
     public void Test_SumCollectionElements_ValidCollectionAndIndex_ReturnsSum()
     {
-        // TODO: finish test
+        // Arrange
+        int[] collectionInput = { 1, 2, 3, 4, 5 };
+        int indexInput = 3;
+        int expected = 15;
+
+        // Act
+        int result = this._exceptions.SumCollectionElements(collectionInput, indexInput);
+
+        // Assert
+        Assert.That(expected, Is.EqualTo(result));
     }
 
     [Test]
     public void Test_SumCollectionElements_NullCollection_ThrowsArgumentNullException()
     {
-        // TODO: finish test
+        // Arrange
+        int[] collectionInput = null;
+        int indexInput = 3;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.SumCollectionElements(collectionInput, indexInput), Throws.ArgumentNullException);
+
     }
 
     [Test]
     public void Test_SumCollectionElements_IndexOutOfRange_ThrowsIndexOutOfRangeException()
     {
-        // TODO: finish test
+        // Arrange
+        int[] collectionInput = { 1, 2, 3, 4, 5 };
+        int indexInput = 10;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.SumCollectionElements(collectionInput, indexInput), Throws.InstanceOf<IndexOutOfRangeException>());
+    }
+
+    [Test]
+    public void Test_SumCollectionElements_IndexIsNegative_ThrowsIndexOutOfRangeException()
+    {
+        // Arrange
+        int[] collectionInput = { 1, 2, 3, 4, 5 };
+        int indexInput = -2;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.SumCollectionElements(collectionInput, indexInput), Throws.InstanceOf<IndexOutOfRangeException>());
+    }
+
+    [Test]
+    public void Test_SumCollectionElements_IndexIsCollectionLength_ThrowsIndexOutOfRangeException()
+    {
+        // Arrange
+        int[] collectionInput = { 1, 2, 3, 4, 5 };
+        int indexInput = 5;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.SumCollectionElements(collectionInput, indexInput), Throws.InstanceOf<IndexOutOfRangeException>());
     }
 
     [Test]
     public void Test_GetElementAsNumber_ValidKey_ReturnsParsedNumber()
     {
-        // TODO: finish test
+        // Arrange
+        Dictionary<string, string> dictionary = new Dictionary<string, string>();
+        string key = "key";
+        string value = "1";
+        dictionary[key] = value;
+        int expected = 1;
+
+        // Act
+        int result = this._exceptions.GetElementAsNumber(dictionary, "key");
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
+
     }
 
     [Test]
     public void Test_GetElementAsNumber_KeyNotFound_ThrowsKeyNotFoundException()
     {
-        // TODO: finish test
+        // Arrange
+        Dictionary<string, string> dictionary = new Dictionary<string, string>();
+        string key = "key";
+        string value = "1";
+        dictionary[key] = value;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.GetElementAsNumber(dictionary, "newkey"), Throws.InstanceOf<KeyNotFoundException>());
     }
 
     [Test]
     public void Test_GetElementAsNumber_InvalidFormat_ThrowsFormatException()
     {
-        // TODO: finish test
+        // Arrange
+        Dictionary<string, string> dictionary = new Dictionary<string, string>();
+        string key = "key";
+        string value = "value";
+        dictionary[key] = value;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.GetElementAsNumber(dictionary, "key"), Throws.InstanceOf<FormatException>());
     }
 }

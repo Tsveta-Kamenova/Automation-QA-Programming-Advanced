@@ -345,14 +345,21 @@ public class ExceptionTests
     public void Test_GetElementAsNumber_ValidKey_ReturnsParsedNumber()
     {
         // Arrange
-        Dictionary<string, string> dictionary = new Dictionary<string, string>();
-        string key = "key";
-        string value = "1";
-        dictionary[key] = value;
-        int expected = 1;
+        //Dictionary<string, string> dictionary = new Dictionary<string, string>();
+        //string key = "key";
+        //string value = "1";
+        //dictionary[key] = value;
+        Dictionary<string, string> dictionary = new Dictionary<string, string>()
+        {
+            ["key1"] = "1",
+            ["key2"] = "2",
+            ["key3"] = "3",
+            ["key4"] = "4"
+        };
+        int expected = 2;
 
         // Act
-        int result = this._exceptions.GetElementAsNumber(dictionary, "key");
+        int result = this._exceptions.GetElementAsNumber(dictionary, "key2");
 
         // Assert
         Assert.That(result, Is.EqualTo(expected));
@@ -363,10 +370,17 @@ public class ExceptionTests
     public void Test_GetElementAsNumber_KeyNotFound_ThrowsKeyNotFoundException()
     {
         // Arrange
-        Dictionary<string, string> dictionary = new Dictionary<string, string>();
-        string key = "key";
-        string value = "1";
-        dictionary[key] = value;
+        //Dictionary<string, string> dictionary = new Dictionary<string, string>();
+        //string key = "key";
+        //string value = "1";
+        //dictionary[key] = value;
+        Dictionary<string, string> dictionary = new Dictionary<string, string>()
+        {
+            ["key1"] = "1",
+            ["key2"] = "2",
+            ["key3"] = "3",
+            ["key4"] = "4"
+        };
 
         // Act & Assert
         Assert.That(() => this._exceptions.GetElementAsNumber(dictionary, "newkey"), Throws.InstanceOf<KeyNotFoundException>());

@@ -312,7 +312,7 @@ public class ExceptionTests
     public void Test_SumCollectionElements_IndexOutOfRange_ThrowsIndexOutOfRangeException()
     {
         // Arrange
-        int[] collectionInput = { 1, 2, 3, 4, 5 };
+        int[] collectionInput = new[] { 1, 2, 3, 4, 5 };
         int indexInput = 10;
 
         // Act & Assert
@@ -323,7 +323,7 @@ public class ExceptionTests
     public void Test_SumCollectionElements_IndexIsNegative_ThrowsIndexOutOfRangeException()
     {
         // Arrange
-        int[] collectionInput = { 1, 2, 3, 4, 5 };
+        int[] collectionInput = new[] { 1, 2, 3, 4, 5 };
         int indexInput = -2;
 
         // Act & Assert
@@ -349,7 +349,7 @@ public class ExceptionTests
         //string key = "key";
         //string value = "1";
         //dictionary[key] = value;
-        Dictionary<string, string> dictionary = new Dictionary<string, string>()
+        Dictionary<string, string> dictionary = new()
         {
             ["key1"] = "1",
             ["key2"] = "2",
@@ -374,12 +374,19 @@ public class ExceptionTests
         //string key = "key";
         //string value = "1";
         //dictionary[key] = value;
+        //Dictionary<string, string> dictionary = new Dictionary<string, string>()
+        //{
+        //    ["key1"] = "1",
+        //    ["key2"] = "2",
+        //    ["key3"] = "3",
+        //    ["key4"] = "4"
+        //};
         Dictionary<string, string> dictionary = new Dictionary<string, string>()
         {
-            ["key1"] = "1",
-            ["key2"] = "2",
-            ["key3"] = "3",
-            ["key4"] = "4"
+            { "key1", "1"},
+            { "key2", "2"},
+            { "key3", "3"},
+            { "key4", "4"}
         };
 
         // Act & Assert

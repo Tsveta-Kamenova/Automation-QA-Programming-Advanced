@@ -1,0 +1,11 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\bin\Debug\net6.0\Zoo.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\bin\Debug\net6.0\Zoo.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\bin\Debug\net6.0\Zoo.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\Zoo.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\Zoo.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Zoo\obj\Debug\net6.0\ref\Zoo.dll

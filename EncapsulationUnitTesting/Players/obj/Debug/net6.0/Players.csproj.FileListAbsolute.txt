@@ -1,0 +1,11 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\Players.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\Players.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\Players.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\bin\Debug\net6.0\Players.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\bin\Debug\net6.0\Players.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\bin\Debug\net6.0\Players.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\Players.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\refint\Players.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\Players.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\Players\obj\Debug\net6.0\ref\Players.dll

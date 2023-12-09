@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\bin\Debug\net6.0\BoxData.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\bin\Debug\net6.0\BoxData.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\bin\Debug\net6.0\BoxData.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\bin\Debug\net6.0\BoxData.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\bin\Debug\net6.0\BoxData.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\BoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\BoxData.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\BoxData.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\refint\BoxData.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\BoxData.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\BoxData.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\EncapsulationUnitTesting\BoxData\obj\Debug\net6.0\ref\BoxData.dll

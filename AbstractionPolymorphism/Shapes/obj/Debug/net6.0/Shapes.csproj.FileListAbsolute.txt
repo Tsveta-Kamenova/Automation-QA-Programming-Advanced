@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Shapes\obj\Debug\net6.0\ref\Shapes.dll

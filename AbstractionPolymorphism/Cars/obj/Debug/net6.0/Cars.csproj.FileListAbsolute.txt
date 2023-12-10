@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\bin\Debug\net6.0\Cars.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\bin\Debug\net6.0\Cars.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\bin\Debug\net6.0\Cars.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\Cars.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\Cars.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Cars\obj\Debug\net6.0\ref\Cars.dll

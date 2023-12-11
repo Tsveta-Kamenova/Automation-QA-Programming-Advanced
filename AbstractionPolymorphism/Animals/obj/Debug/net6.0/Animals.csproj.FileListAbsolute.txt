@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\bin\Debug\net6.0\Animals.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\bin\Debug\net6.0\Animals.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\bin\Debug\net6.0\Animals.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\Animals.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\Animals.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\Animals\obj\Debug\net6.0\ref\Animals.dll

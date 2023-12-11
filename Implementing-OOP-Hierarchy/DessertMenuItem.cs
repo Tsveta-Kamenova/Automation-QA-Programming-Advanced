@@ -13,7 +13,7 @@ namespace ExerciseOopHierarchy
         }
         public override string ToString()
         {
-            return $"Appetizer: {base.ToString()}";
+            return $"Dessert: {base.ToString()}";
         }
     }
 }

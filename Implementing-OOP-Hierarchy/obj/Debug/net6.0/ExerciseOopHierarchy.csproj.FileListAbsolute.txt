@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Implementing-OOP-Hierarchy\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll

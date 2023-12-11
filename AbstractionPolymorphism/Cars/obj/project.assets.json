@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Raiding/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Raiding.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Raiding.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Raiding/1.0.0": {
+      "type": "project",
+      "path": "../Raiding/Raiding.csproj",
+      "msbuildProject": "../Raiding/Raiding.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Raiding >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Tsveta\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\AbstractionPolymorphism\\Raiding\\Raiding.csproj": {
+              "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\04_Programming Advanced for QA- November 2023\\Automation-QA-Programming-Advanced\\AbstractionPolymorphism\\Raiding\\Raiding.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

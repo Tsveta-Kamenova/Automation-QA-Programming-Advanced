@@ -105,11 +105,41 @@ public class DictionaryIntersectionTests
 
         // Assert
         Assert.That(expectedDictionary, Is.EqualTo(result));
+        Assert.IsTrue(result.Count == 3);
+        Assert.IsTrue(result.ContainsKey("one"));
+        Assert.IsTrue(result.ContainsKey("seven"));
+        Assert.IsFalse(result.ContainsKey("three"));
+        Assert.AreEqual(1, result["one"]);
     }
 
     [Test]
     public void Test_Intersect_TwoNonEmptyDictionariesWithCommonKeysAndDifferentValues_ReturnsEmptyDictionary()
     {
-        // TODO: finish this test
+        // Arrange
+        Dictionary<string, int> firstDictionary = new()
+        {
+            { "five" , 55 },
+            { "six" , 66 },
+            { "seven" , 77 },
+            { "one" , 11 },
+            { "two" , 22 },
+        };
+        Dictionary<string, int> secondDictionary = new()
+        {
+            { "one" , 1 },
+            { "two" , 2 },
+            { "three" , 3 },
+            { "seven" , 7 },
+        };
+
+        Dictionary<string, int> expectedDictionary = new();
+
+        // Act 
+        Dictionary<string, int> result = DictionaryIntersection.Intersect(firstDictionary, secondDictionary);
+
+
+        // Assert
+        Assert.That(expectedDictionary, Is.EqualTo(result));
+        Assert.IsTrue(result.Count == 0);
     }
 }

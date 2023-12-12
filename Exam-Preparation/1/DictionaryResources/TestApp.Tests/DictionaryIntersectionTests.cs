@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-
+using System.Linq;
 using NUnit.Framework;
 
 namespace TestApp.Tests;
@@ -140,6 +140,8 @@ public class DictionaryIntersectionTests
 
         // Assert
         Assert.That(expectedDictionary, Is.EqualTo(result));
-        Assert.IsTrue(result.Count == 0);
+        //Assert.IsTrue(result.Count == 0);
+        Assert.IsTrue(!result.Any());
+        CollectionAssert.AllItemsAreUnique(result);
     }
 }

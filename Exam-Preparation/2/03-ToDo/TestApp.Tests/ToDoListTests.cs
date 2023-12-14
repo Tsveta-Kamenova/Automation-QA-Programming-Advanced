@@ -79,15 +79,19 @@ public class ToDoListTests
     public void Test_DisplayTasks_WithTasks_ReturnsFormattedToDoList()
     {
         // Arrange
-        string taskName = "task to complete";
-        DateTime taskDate = DateTime.Today;
-        _toDoList.AddTask(taskName, taskDate);
+        string taskName1 = "task one";
+        DateTime taskDate1 = DateTime.Today;
+        _toDoList.AddTask(taskName1, taskDate1);
+        string taskName2 = "task to complete";
+        DateTime taskDate2 = DateTime.Today;
+        _toDoList.AddTask(taskName2, taskDate2);
+        _toDoList.CompleteTask(taskName2);
 
         // Act 
         string result = _toDoList.DisplayTasks();
-        string expected = $"To-Do List:{Environment.NewLine}[ ] {taskName} - Due: {taskDate.ToString("MM/dd/yyyy")}";
 
         // Assert
-        Assert.That(result, Is.EqualTo(expected));
+        Assert.That(result, Does.Contain("[ ] task one - Due: "));
+        Assert.That(result, Does.Contain($"[✓] task to complete - Due: "));
     }
 }

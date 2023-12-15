@@ -9,3 +9,14 @@ C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02
 C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
 C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
 C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\Exam-Preparation\3\03-Chat\TestApp\obj\Debug\net6.0\ref\TestApp.dll

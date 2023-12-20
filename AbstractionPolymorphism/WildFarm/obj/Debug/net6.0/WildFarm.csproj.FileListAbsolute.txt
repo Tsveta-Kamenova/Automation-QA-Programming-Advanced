@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\bin\Debug\net6.0\WildFarm.exe
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\bin\Debug\net6.0\WildFarm.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\WildFarm.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\04_Programming Advanced for QA- November 2023\Automation-QA-Programming-Advanced\AbstractionPolymorphism\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll

@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace WildFarm.Food
 {
-    internal class Food
+    public abstract class Food
     {
+        public Food(int quantity)
+        {
+            Quantity = quantity;
+        }
+
+        public int Quantity { get; set; }
+
+        //public override string ToString()
+        //{
+        //    return "";
+        //}
     }
 }

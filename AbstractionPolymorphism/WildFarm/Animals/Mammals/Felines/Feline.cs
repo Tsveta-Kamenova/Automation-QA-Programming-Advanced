@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WildFarm.Animal.Mammal.Feline
+namespace WildFarm.Animals.Mammals.Felines
 {
     public abstract class Feline : Mammal
     {

@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WildFarm.Animals.Birds;
 
-namespace WildFarm.Animal
+namespace WildFarm.Animals
 {
     public abstract class Animal: ITalk
     {

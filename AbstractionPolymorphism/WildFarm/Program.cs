@@ -1,4 +1,4 @@
-﻿using WildFarm.Animal.Mammal.Feline;
+﻿using WildFarm.Animals.Mammals.Felines;
 using WildFarm.Food;
 
 namespace WildFarm

@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WildFarm.Animals;
 
-namespace WildFarm.Animal
+namespace WildFarm
 {
-    public interface ITalk
+    public class Farm
     {
-        public string Talk();
+        private List<Animal> _animals = new();
     }
 }

@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WildFarm.Animal.Mammal
+namespace WildFarm.Animals.Birds
 {
-    public class Dog : Mammal
+    public class Hen : Bird
     {
-        public Dog(string name, double weight, string livingRegion) : base(name, weight, livingRegion)
+        public Hen(string name, double weight, double wingSize) : base(name, weight, wingSize)
         {
         }
 
         public override string Talk()
         {
-            return "Woof!";
+            return "Cluck";
         }
     }
 }

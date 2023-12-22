@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace WildFarm.Animal.Bird
 {
-    internal class Owl
+    public class Owl : Bird
     {
+        public Owl(string name, double weight, double wingSize) : base(name, weight, wingSize)
+        {
+        }
+
+        public override string Talk()
+        {
+            return "Hoot Hoot";
+
+        }
     }
 }

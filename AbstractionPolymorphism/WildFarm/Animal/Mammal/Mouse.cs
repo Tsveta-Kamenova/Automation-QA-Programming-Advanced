@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace WildFarm.Animal.Mammal
 {
-    internal class Mouse
+    public class Mouse : Mammal
     {
+        public Mouse(string name, double weight, string livingRegion) : base(name, weight, livingRegion)
+        {
+        }
+
+        public override string Talk()
+        {
+            return "Squeak";
+        }
     }
 }

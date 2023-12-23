@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WildFarm.Food
+namespace WildFarm.Foods
 {
     public abstract class Food
     {

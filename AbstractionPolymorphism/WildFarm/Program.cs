@@ -1,5 +1,5 @@
 ﻿using WildFarm.Animals.Mammals.Felines;
-using WildFarm.Food;
+using WildFarm.Foods;
 
 namespace WildFarm
 {

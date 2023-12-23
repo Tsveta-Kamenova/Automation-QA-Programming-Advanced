@@ -117,7 +117,6 @@ namespace WildFarm
         }
         public void FeedAnimal(Animal animal, Food food)
         {
-            animal.Talk();
             if (animal.GetType().Name == "Hen")
             {
                 animal.Weight += food.Quantity * 0.35;

@@ -12,14 +12,25 @@ namespace WildFarm
             Farm farm = new Farm();
 
             string animalInput = Console.ReadLine();
-            string foodInput = Console.ReadLine();
-            string end = Console.ReadLine();
+            
+            while (animalInput != "End")
+            {
+                Animal animal = farm.ReadAnimal(animalInput);
+                farm.AddAnimal(animal);
+                Console.WriteLine(animal.Talk());
 
-            Animal animal = farm.ReadAnimal(animalInput);
-            Food food = farm.ReadFood(foodInput);
-            farm.AddAnimal(animal);
-            farm.FeedAnimal(animal, food);
+                string foodInput = Console.ReadLine();
+                Food food = farm.ReadFood(foodInput);
+                farm.FeedAnimal(animal, food);
 
+                animalInput = Console.ReadLine();
+            }
+
+
+            foreach (Animal currentAnimal in farm.Animals)
+            {
+                Console.WriteLine(currentAnimal);
+            }
         }
     }
 }

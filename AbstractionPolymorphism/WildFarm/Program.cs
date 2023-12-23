@@ -1,21 +1,25 @@
-﻿using WildFarm.Animals.Mammals.Felines;
+﻿using WildFarm.Animals;
+using WildFarm.Animals.Mammals.Felines;
 using WildFarm.Foods;
 
 namespace WildFarm
 {
-    internal class Program
+    public class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Farm farm = new Farm();
 
-            Cat cat = new Cat("Sammy", 1.1, "Home", "Persian");
-            Console.WriteLine(cat.Talk());
+            string animalInput = Console.ReadLine();
+            string foodInput = Console.ReadLine();
+            string end = Console.ReadLine();
 
-            Vegetable vegetable = new Vegetable(4);
-            cat.FoodEaten += 4;
-            cat.Weight += 4 * 0.30;
-            Console.WriteLine(cat);
+            Animal animal = farm.ReadAnimal(animalInput);
+            Food food = farm.ReadFood(foodInput);
+            farm.AddAnimal(animal);
+            farm.FeedAnimal(animal, food);
+
         }
     }
 }

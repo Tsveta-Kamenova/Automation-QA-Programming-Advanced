@@ -22,9 +22,9 @@ namespace WildFarm
             _animals.Add(animal);
         }
 
-        public void CreateAnimal(string animalInput)
+        public Animal ReadAnimal(string animalInput)
         {
-            string[] animalParams = animalInput.Split(' ');
+            string[] animalParams = animalInput.Split(' ').ToArray();
             if (animalParams[0] == "Cat")
             {
                 string name = animalParams[1];
@@ -33,7 +33,7 @@ namespace WildFarm
                 string breed = animalParams[4];
 
                 Cat cat = new(name, weight, livingRegion, breed);
-                AddAnimal(cat);
+                return cat;
             }
 
             else if (animalParams[0] == "Tiger")
@@ -44,7 +44,7 @@ namespace WildFarm
                 string breed = animalParams[4];
 
                 Tiger tiger = new(name, weight, livingRegion, breed);
-                AddAnimal(tiger);
+                return tiger;
             }
 
             else if (animalParams[0] == "Owl")
@@ -54,7 +54,7 @@ namespace WildFarm
                 double wingSize = double.Parse(animalParams[3]);
 
                 Owl owl = new(name, weight, wingSize);
-                AddAnimal(owl);
+                return owl;
             }
 
             else if (animalParams[0] == "Hen")
@@ -64,7 +64,7 @@ namespace WildFarm
                 double wingSize = double.Parse(animalParams[3]);
 
                 Hen hen = new(name, weight, wingSize);
-                AddAnimal(hen);
+                return hen;
             }
 
             else if (animalParams[0] == "Mouse")
@@ -74,7 +74,7 @@ namespace WildFarm
                 string livingRegion = animalParams[3];
 
                 Mouse mouse = new(name, weight, livingRegion);
-                AddAnimal(mouse);
+                return mouse;
             }
 
             else if (animalParams[0] == "Dog")
@@ -84,33 +84,82 @@ namespace WildFarm
                 string livingRegion = animalParams[3];
 
                 Dog dog = new(name, weight, livingRegion);
-                AddAnimal(dog);
+                return dog;
             }
+            else
+             throw new ArgumentException();
+        }
+
+        public Food ReadFood (string foodInput)
+        {
+            string[] foodParams = foodInput.Split().ToArray();
+            string foodName = foodParams[0];
+            int foodQuantity = int.Parse(foodParams[1]);
+
+            if (foodParams[0] == "Vegetable")
+            {
+                return new Vegetable(foodQuantity);
+            }
+            else if (foodParams[0] == "Meat")
+            {
+                return new Meat(foodQuantity);
+            }
+            else if (foodParams[0] == "Fruit")
+            {
+                return new Fruits(foodQuantity);
+            }
+            else if (foodParams[0] == "Seeds")
+            {
+                return new Seeds(foodQuantity);
+            }
+            else
+                throw new ArgumentException();
         }
         public void FeedAnimal(Animal animal, Food food)
         {
+            animal.Talk();
             if (animal.GetType().Name == "Hen")
             {
                 animal.Weight += food.Quantity * 0.35;
             }
             else if (animal.GetType().Name == "Owl")
             {
+                if (food.GetType().Name != "Meat")
+                {
+                    throw new ArgumentException();
+                }
                 animal.Weight += food.Quantity * 0.25;
             }
             else if (animal.GetType().Name == "Mouse")
             {
+                if (food.GetType().Name != "Vegetable" && food.GetType().Name != "Fruit")
+                {
+                    throw new ArgumentException();
+                }
                 animal.Weight += food.Quantity * 0.10;
             }
             else if (animal.GetType().Name == "Cat")
             {
+                if (food.GetType().Name != "Vegetable" && food.GetType().Name != "Meat")
+                {
+                    throw new ArgumentException();
+                }
                 animal.Weight += food.Quantity * 0.30;
             }
             else if (animal.GetType().Name == "Dog")
             {
+                if (food.GetType().Name != "Meat")
+                {
+                    throw new ArgumentException();
+                }
                 animal.Weight += food.Quantity * 0.40;
             }
             else if (animal.GetType().Name == "Tiger")
             {
+                if (food.GetType().Name != "Meat")
+                {
+                    throw new ArgumentException();
+                }
                 animal.Weight += food.Quantity * 1.00;
             }
             animal.FoodEaten += food.Quantity;

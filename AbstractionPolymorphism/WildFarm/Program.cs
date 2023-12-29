@@ -21,7 +21,15 @@ namespace WildFarm
 
                 string foodInput = Console.ReadLine();
                 Food food = farm.ReadFood(foodInput);
-                farm.FeedAnimal(animal, food);
+                try
+                {
+                    farm.FeedAnimal(animal, food);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {food.GetType().Name}!");
+                }
+
 
                 animalInput = Console.ReadLine();
             }
